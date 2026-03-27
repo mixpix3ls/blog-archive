@@ -1,11 +1,20 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "The Processor",
+	"title": "The Render",
 	"icon": "https://micro.blog/mixpix3ls/avatar.jpg",
 	"home_page_url": "https://mixpix3ls.com/",
 	"feed_url": "https://mixpix3ls.com/feed.json",
 	"items": [
 		
+			{
+				"id": "http://mixpix3ls.micro.blog/2026/03/27/i-switched-to-proton-mail.html",
+				
+				"content_html": "<p>I switched to Proton Mail a few years ago. Just renewed on the Family Plan and got my wife to switch to Proton Mail too! Works so well, we get Mail, Calendar, Drive, VPN and Pass. Gmail forwarding is set up for both of us, and we moved our shared calendar over to Proton Calendar. So far so good!</p>\n",
+				"content_text": "I switched to Proton Mail a few years ago. Just renewed on the Family Plan and got my wife to switch to Proton Mail too! Works so well, we get Mail, Calendar, Drive, VPN and Pass. Gmail forwarding is set up for both of us, and we moved our shared calendar over to Proton Calendar. So far so good!\n",
+				"date_published": "2026-03-27T16:52:17-05:00",
+				"url": "https://mixpix3ls.com/2026/03/27/i-switched-to-proton-mail.html",
+				"tags": ["Microposts"]
+			},
 			{
 				"id": "http://mixpix3ls.micro.blog/2026/03/24/i-guess-people-arent-buying.html",
 				
