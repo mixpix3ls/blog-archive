@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://mixpix3ls.micro.blog/2026/04/09/something-weird-is-going-on.html",
+				
+				"content_html": "<p>Something weird is going on with LinkedIn.com right now. CSS is all messed up and the site looks barebones.</p>\n",
+				"content_text": "Something weird is going on with LinkedIn.com right now. CSS is all messed up and the site looks barebones.\n",
+				"date_published": "2026-04-09T16:08:19-05:00",
+				"url": "https://mixpix3ls.com/2026/04/09/something-weird-is-going-on.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://mixpix3ls.micro.blog/2026/04/07/the-worst-part-about-vibe.html",
 				
 				"content_html": "<p>The worst part about vibe coding is troubleshooting afterwards.</p>\n",
